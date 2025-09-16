@@ -71,7 +71,7 @@ footer {
 }
 
 #title {
-    font-size: clamp(20, 4vw, 24px);
+    font-size: clamp(20px, 4vw, 24px);
 }
 
 #title:hover {
